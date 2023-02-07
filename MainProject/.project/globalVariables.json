@@ -1,0 +1,18 @@
+[
+  {
+    "Constant": false,
+    "Name": "AllianzThreshold",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "85",
+    "IsLiteral": true
+  },
+  {
+    "Constant": true,
+    "Name": "MaxNoClaimBonus",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "40",
+    "IsLiteral": true
+  }
+]
